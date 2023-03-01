@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c1b1981-52bb-42ba-ba3f-f7add48c5eb0" name="变更" comment="按照需求重新修正结构💀">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Settlement.html" beforeDir="false" afterPath="$PROJECT_DIR$/Settlement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Settlement_en.html" beforeDir="false" afterPath="$PROJECT_DIR$/Settlement_en.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29I7GQkZohTFgkyBmGia0pVvPjp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/protection" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\文档\新鲜出炉的程序\frontSide\wood-structure-buildings-in-Western-Sichuan\images\protection" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\文档\新鲜出炉的程序\frontSide\wood-structure-buildings-in-Western-Sichuan\images\home" />
+      <recent name="D:\文档\新鲜出炉的程序\frontSide\wood-structure-buildings-in-Western-Sichuan\images\lake\lake_swiper" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6c1b1981-52bb-42ba-ba3f-f7add48c5eb0" name="变更" comment="" />
+      <created>1652788651974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652788651974</updated>
+      <workItem from="1652788654687" duration="1107000" />
+      <workItem from="1652789782530" duration="19000" />
+      <workItem from="1652789813093" duration="5425000" />
+      <workItem from="1653647160160" duration="14000" />
+      <workItem from="1663581052117" duration="11309000" />
+      <workItem from="1663635433174" duration="11000000" />
+    </task>
+    <task id="LOCAL-00001" summary="ddl中文校对">
+      <created>1663585423203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663585423203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加英文版本">
+      <created>1663589438055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663589438055</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更改Monomer页面字体方向">
+      <created>1663592585489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663592585489</updated>
+    </task>
+    <task id="LOCAL-00004" summary="校对部分英文翻译">
+      <created>1663636437679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663636437679</updated>
+    </task>
+    <task id="LOCAL-00005" summary="按照需求重新修正结构💀">
+      <created>1663646062316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663646062316</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ddl中文校对" />
+    <MESSAGE value="添加英文版本" />
+    <MESSAGE value="更改Monomer页面字体方向" />
+    <MESSAGE value="校对部分英文翻译" />
+    <MESSAGE value="按照需求重新修正结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="按照需求重新修正结构" />
+  </component>
+</project>
